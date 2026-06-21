@@ -1,6 +1,6 @@
-# The Witches Robe — Book Website
+# The Black Robe — Novel
 
-A dark, animated single-page site for *The Witches Robe* by Christopher Duguay.
+
 
 ## Files
 - `index.html` — all the page content (headlines, blurb, sections)
