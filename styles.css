@@ -207,7 +207,7 @@ em { color: var(--ink); }
 @keyframes scrollpulse { 0%,100%{opacity:.3; transform:scaleY(.7);} 50%{opacity:1; transform:scaleY(1);} }
 
 .hero__scroll-word {
-  font-family: var(--display); font-size: 1.9rem; letter-spacing: 3px;
+  font-family: var(--display); font-size: 1.2rem; letter-spacing: 3px;
   text-transform: uppercase; color: var(  --blood);
 }
 
